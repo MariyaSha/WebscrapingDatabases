@@ -7,7 +7,9 @@ a database scraper created with mechanical soup and sqlite
 
 <br>
 <br>
-![Thumbnail_MechanicalSoup7](https://user-images.githubusercontent.com/32107652/144741272-1142dffa-7111-4edd-a8f5-3567b364ad1a.png)
+
+![Thumbnail_MechanicalSoup](https://user-images.githubusercontent.com/32107652/144741272-1142dffa-7111-4edd-a8f5-3567b364ad1a.png)
+
 <br>
 <b>scraper.py</b> 
 <br>
