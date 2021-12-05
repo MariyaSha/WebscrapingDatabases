@@ -5,7 +5,7 @@ a database scraper created with mechanical soup and sqlite
 <br>
 ### Watch full tutorial on YouTube:
 <br>
-
+https://youtu.be/MkGQmZoMuRM
 <br>
 <br>
 
