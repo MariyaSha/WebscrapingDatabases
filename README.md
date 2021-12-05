@@ -4,7 +4,6 @@ a database scraper created with mechanical soup and sqlite
 <b>author:</b> Mariya Sha
 <br>
 ### Watch full tutorial on YouTube:
-<br>
 https://youtu.be/MkGQmZoMuRM
 <br>
 <br>
