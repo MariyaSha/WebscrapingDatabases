@@ -3,7 +3,9 @@ a database scraper created with mechanical soup and sqlite
 <br>
 <b>author:</b> Mariya Sha
 <br>
-### Watch full tutorial on YouTube:
+### Watch on YouTube:
+This repository was created to support a YouTube tutorial:
+<br>
 https://youtu.be/MkGQmZoMuRM
 <br>
 <br>
